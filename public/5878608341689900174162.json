@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549978117381",
+    "project_id": "pinjol-cepat-cair-e4a4b",
+    "storage_bucket": "pinjol-cepat-cair-e4a4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549978117381:android:edbf8c46905361d6e7d36c",
+        "android_client_info": {
+          "package_name": "com.pinjolcepatcairpinjamonlinecepatcair.pinjamdanaonlinecepatcair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549978117381-ldd7pd3ugbamlg0o992ntbmoeea1pg3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHthAODYUUK63C2YH-P0rDB5n5t-299RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549978117381-ldd7pd3ugbamlg0o992ntbmoeea1pg3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
